@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- animated name with full coverage (venom effect covers whole name) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sara%20Zahran&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20Engineer&descAlignY=55&descSize=20"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sara%20Zahran&fontSize=90&color=0:8B5CF6,100:EC4899&stroke=8B5CF6&strokeWidth=3&fontColor=fff&animation=fadeIn&desc=Data%20Analyst%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Kaggle%20Master&descSize=22&descAlignY=75&descColor=fff"/>
-
-<!-- moving subheadings (typing animation covers multiple roles) -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=🏆+Kaggle+Master;📊+Data+Analyst;🤖+AI+%26+LLM+Engineer;🧠+NLP+Specialist;👁+Computer+Vision+Engineer;🔗+RAG+Systems+Developer;🌙+Night+thinker+%26+coffee+lover" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=📊+Data+Analyst;🤖+AI+Engineer;🧠+NLP+Specialist;👁+Computer+Vision+Engineer;🏆+Kaggle+Master"/>
+</a>
 
 </div>
 

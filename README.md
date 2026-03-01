@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sara%20Zahran&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20Engineer&descAlignY=55&descSize=20"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=📊+Data+Analyst;🤖+AI+Engineer;🧠+NLP+Specialist;👁+Computer+Vision+Engineer;🏆+Kaggle+Master"/>
 </a>
 
 </div>

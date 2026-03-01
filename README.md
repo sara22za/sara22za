@@ -1,11 +1,8 @@
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sara%20Zahran&fontSize=90&color=0:8B5CF6,100:EC4899&stroke=8B5CF6&strokeWidth=3&fontColor=fff&animation=fadeIn&desc=Data%20Analyst%20%7C%20AI%20Engineer%20%7C%20Kaggle%20Master&descSize=22&descAlignY=75&descColor=fff"/>
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=🏆+Kaggle+Master;📊+Data+Analyst;🤖+AI+%26+LLM+Engineer;🧠+NLP+Specialist;👁+Computer+Vision+Engineer;🔗+RAG+Systems+Developer"/>
-</a>
 
 </div>
 
@@ -15,7 +12,14 @@
 
 ### 💫 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=800&color=EC4899&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=💡+Passionate+about+Artificial+Intelligence+%26+Deep+Learning;🧠+Building+Advanced+NLP+%26+LLM+Systems;👁️+Developing+Emotion+Recognition+using+Computer+Vision;📊+Strong+background+in+Data+Analysis+%26+ML;🔗+Building+RAG+Systems+%26+LLM+Applications;🌙+Night+thinker+who+codes+with+coffee+☕"/>
+| | |
+|---|---|
+| 💡 | Passionate about Artificial Intelligence & Deep Learning |
+| 🧠 | Building Advanced NLP & LLM Systems |
+| 👁️ | Developing Emotion Recognition using Computer Vision |
+| 📊 | Strong background in Data Analysis & ML |
+| 🔗 | Building RAG Systems & LLM Applications |
+| 🌙 | Night thinker who codes with coffee ☕ |
 
 </div>
 

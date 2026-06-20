@@ -1,4 +1,3 @@
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sara%20Zahran&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20Engineer&descAlignY=55&descSize=20"/>
 

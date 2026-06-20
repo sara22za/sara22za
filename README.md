@@ -30,7 +30,7 @@
 
 <!-- skill icons (all visible, no broken images) -->
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode&theme=dark&perline=8" />
+<img ="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode&theme=dark&perline=8" />
 
 
 
